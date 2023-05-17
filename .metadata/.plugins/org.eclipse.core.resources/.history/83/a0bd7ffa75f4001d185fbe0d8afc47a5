@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.example.Springdatasources.product;
+
+/**
+ * @author srinidhi.k
+ *
+ */
+public class ProductEntity {
+
+}

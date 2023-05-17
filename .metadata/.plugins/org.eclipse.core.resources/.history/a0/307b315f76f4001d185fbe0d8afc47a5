@@ -1,0 +1,5 @@
+package com.example.Springdatasources.product.repositry;
+
+public interface ProductRepositry {
+
+}

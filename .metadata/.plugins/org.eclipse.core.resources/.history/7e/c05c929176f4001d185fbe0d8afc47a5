@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package com.example.Springdatasources.User;
+
+/**
+ * @author srinidhi.k
+ *
+ */
+@Entity
+@Builder
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+public class UserEntity {
+
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long userid;
+	private String username;
+	private String userlastname;
+}

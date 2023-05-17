@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package com.example.Springdatasources.product;
+
+/**
+ * @author srinidhi.k
+ *
+ */
+@Entity
+@Builder
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+
+public class ProductEntity {
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long projectid;
+	private String projectname;
+	private String projectdetails;
+}

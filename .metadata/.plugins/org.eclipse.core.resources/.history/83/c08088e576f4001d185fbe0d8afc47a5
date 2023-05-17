@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.example.Springdatasources.User.repositry;
+
+/**
+ * @author srinidhi.k
+ *
+ */
+public interface UserRepositry {
+
+}

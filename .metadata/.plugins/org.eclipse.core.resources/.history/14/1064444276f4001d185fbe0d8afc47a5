@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.example.Springdatasources.product.repositry;
+
+/**
+ * @author srinidhi.k
+ *
+ */
+public class ProductRepositry {
+
+}
